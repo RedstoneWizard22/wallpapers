@@ -1,0 +1,45 @@
+{
+  "artists": {
+    "moe-wanders": {
+      "name": "Moe Wanders",
+      "links": {
+        "website": "https://moewanders.com",
+        "deviantart": "https://www.deviantart.com/moewanders"
+      },
+      "artworks": {
+        "the-frontier": "https://www.deviantart.com/moewanders/art/The-Frontier-898155509"
+      }
+    },
+    "k-hati": {
+      "name": "K.Hati",
+      "links": {
+        "pixiv": "https://www.pixiv.net/en/users/15456792",
+        "twitter": "https://twitter.com/hatti_98",
+        "youtube": "https://www.youtube.com/channel/UCkFOAqaRsBx9ZCWMEuxvkyw"
+      },
+      "artworks": {
+        "one-more-light": "https://www.pixiv.net/en/artworks/66277554"
+      }
+    },
+    "mocha708": {
+      "name": "mocha＠2日目西1ひ52a",
+      "links": {
+        "pixiv": "https://www.pixiv.net/en/users/648285",
+        "twitter": "https://twitter.com/mocha708"
+      },
+      "artworks": {
+        "just-a-little-more": "https://www.pixiv.net/en/artworks/91451279"
+      }
+    },
+    "the-protagonists": {
+      "name": "TheProtagonists",
+      "links": {
+        "pixiv": "https://www.pixiv.net/en/users/19592398",
+        "twitter": "https://twitter.com/Protagonist2114"
+      },
+      "artworks": {
+        "this-life-will-do": "https://www.pixiv.net/en/artworks/82512065"
+      }
+    }
+  }
+}
