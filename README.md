@@ -40,6 +40,7 @@ Artists:     4
 
 - [pixiv](https://www.pixiv.net/en/users/15456792)
 - [twitter](https://twitter.com/hatti_98)
+- [youtube](https://www.youtube.com/channel/UCkFOAqaRsBx9ZCWMEuxvkyw)
 
 ### gallery
 

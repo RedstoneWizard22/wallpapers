@@ -286,12 +286,12 @@ if __name__ == "__main__":
             name = mydata["name"]
 
             links = []
-            for linkname in LINK_PRIORITY:
-                if linkname in mydata["links"]:
-                    links.append((linkname, mydata["links"][linkname]))
-            for linkname, linkurl in mydata["links"].items():
-                if linkname not in mydata["links"]:
-                    links.append((linkname, linkurl))
+            for sitename in LINK_PRIORITY:
+                if sitename in mydata["links"]:
+                    links.append((sitename, mydata["links"][sitename]))
+            for sitename, url in mydata["links"].items():
+                if sitename not in LINK_PRIORITY:
+                    links.append((sitename, url))
 
             data[artist] = {"name": name, "links": links, "artworks": []}
 
